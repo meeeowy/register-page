@@ -1,0 +1,48 @@
+:root{
+    background: url(image/galaxy.gif), fixed, 100%, no-repeat;
+}
+header{
+    color: red;
+    text-align: center;
+    font-size: 300%;
+    background: rgba(10,40,170,0.5);
+    box-Shadow: blue 0px 0px 30px;
+    border-radius: 30%;
+    padding: 3%;
+    margin: auto;
+    margin-bottom: 5%;
+    width: 50%;
+}
+form {
+    padding: 5%;
+}
+form label{
+    font-size:200%;
+    display:block;
+    color:blue;
+    background-image:linear-gradient(to right,red,green,yellow);
+    box-Shadow: aqua 0px 0px 20px;
+    margin: auto;
+    width:56%;
+    text-align:center;
+}
+form input{
+    font-size:200%;
+    display:block;
+    background-image:linear-gradient(to left,khaki,white);
+    margin: auto;
+    margin-bottom: 3%;
+    width:55.7%;
+    border:none;
+    text-align:center;
+    opacity:0.5;
+}
+button{
+    display: block;
+    width: 30%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 1%;
+    background-image:linear-gradient(to right, white,gray);
+    box-shadow: red 0px 0px 20px 5px;
+}

@@ -1,0 +1,22 @@
+@keyframes error {
+    0%{margin: auto;}
+    10%{margin-right: 18%;}
+    20%{margin: auto;}
+    30%{margin-left: 18%;}
+    40%{margin: auto;}
+    50%{margin-right: 20%;}
+    60%{margin: auto;}
+    70%{margin-left: 20%;}
+    80%{margin: auto;}
+    90%{margin-right: 22%;}
+    94%{margin: auto;}
+    95%{margin-left: 22%;}
+    96%{margin: auto;}
+    97%{margin-right: 22%;}
+    98%{margin: auto;}
+    99%{margin-left: 22%;}
+    100%{margin: auto;}
+}
+input{
+    animation: error 0.7s;
+}
